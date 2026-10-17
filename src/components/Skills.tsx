@@ -17,7 +17,6 @@ import {
   Sparkles,
   Target,
   TrendingUp,
-  Video,
 } from "lucide-react";
 
 gsap.registerPlugin(ScrollTrigger);
